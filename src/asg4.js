@@ -1,3 +1,6 @@
+// Cyrus Amalan
+// camalan@ucsc.edu
+
 // Vertex shader program
 var VSHADER_SOURCE = `
   precision mediump float;
